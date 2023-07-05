@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Content/LevelElements/Final_Enemies/Flying_Blob/Flying_Blob_Skeleton_Flying_Blob.uasset filter=lfs diff=lfs merge=lfs -text
+Content/LevelElements/Final_Enemies/FlyingStrong_Blob/StrongFlyingBlob_Skeleton_StrongFlyingBlob.uasset filter=lfs diff=lfs merge=lfs -text
+Content/LevelElements/Final_Enemies/Moving_Blob/blob_animated.uasset filter=lfs diff=lfs merge=lfs -text
+Content/LevelElements/Final_Enemies/Moving_Blob/Blob_Skeleton_Blob.uasset filter=lfs diff=lfs merge=lfs -text
+Content/LevelElements/Final_Enemies/Flying_StrongBlob/StrongFlyingBlob_Skeleton_StrongFlyingBlob.uasset filter=lfs diff=lfs merge=lfs -text
+Content/LevelElements/Final_Enemies/Moving_StrongBlob/GroundFlyingBlob_Skeleton_GroundFlyingBlob.uasset filter=lfs diff=lfs merge=lfs -text
