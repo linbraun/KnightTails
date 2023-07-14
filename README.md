@@ -1,3 +1,4 @@
+[Portfolio](https://portfolio.lindseybraun.com/#knight-tails)
 # KnightTails
 “Knight Tails" is a 3D platformer where players embark on a quest as a cat knight to collect keys from four distinct and challenging boss rooms. Ultimately used to unlock the final door, the number of keys collected is displayed on the players HUD, as well as their health. Equipped with a skeletal sword, players must navigate through a medieval world while overcoming an array of challenges including a variety of enemies, traps, and moving obstacles while on their pursuit. Whether players choose to evade patrolling enemies with stealth or take them on in close combat, their agility, quick thinking, and strategic prowess will determine their success in this captivating adventure.
 
